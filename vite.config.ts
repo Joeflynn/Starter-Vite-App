@@ -5,7 +5,7 @@ import path from "path"
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/starter-vite-app/",
+  base: "/Starter-Vite-App/",
   plugins: [react()],
   resolve: {
     alias: {
