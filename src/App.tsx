@@ -26,9 +26,9 @@ function App() {
       <div className="container flex justify-center p-6">
         <Card className="w-[350px]">
           <CardHeader>
-            <CardTitle>Create project</CardTitle>
+            <CardTitle>New project</CardTitle>
             <CardDescription>
-              Deploy your new project in one-click.
+              New Project
             </CardDescription>
           </CardHeader>
           <CardContent>
